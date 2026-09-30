@@ -1,7 +1,7 @@
 {
   "leadId": "PL-024",
   "businessName": "ideal dental clinic",
-  "nicheId": "all niches",
+  "nicheId": "dentist",
   "category": "Dental clinic",
   "phone": "03004755755",
   "whatsapp": "923004755755",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "ideal dental clinic provides trusted all niches services in Lahore.",
+  "about": "ideal dental clinic provides trusted dentist services in Lahore.",
   "urduSupport": true
 }
